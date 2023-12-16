@@ -21,7 +21,8 @@ Movimentos:
 
 Final do Jogo:
 
-- O jogo é concluído quando todos os pares correspondentes são encontrados e todas as cartas estão viradas para cima.
+- Você vencerá se encontrar todos os pares.
+- Você perde se não conseguir encontrar os pares antes do tempo acabar.
   
 ## Como Jogar
 
@@ -48,11 +49,13 @@ Jogue:
 
 Conclusão:
 
-- O jogo é concluído quando todos os pares são encontrados. Você pode optar por reiniciar o jogo para uma nova rodada.
+- O jogo é concluído quando todos os pares são encontrados.
+- O jogo se encerra caso o tempo esgote.
+- Caso encontre todos os pares ou o tempo se esgote, você poderá escolher se quer jogar novamente.
 
 ## Créditos
 
-Este projeto foi desenvolvido com base em conhecimentos adquiridos durante meu aprendizado JS: D.O.M. Além disso, gostaria de creditar as seguintes fontes de referência:
+Este projeto foi desenvolvido com base em conhecimentos adquiridos durante meu aprendizado em JS: D.O.M. Além disso, gostaria de creditar as seguintes fontes de referência:
 
 - Comunidade Stack Overflow por fornecer soluções para desafios específicos encontrados durante o desenvolvimento.
 - O canal do youtube Code Sketch.
